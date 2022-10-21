@@ -1,6 +1,6 @@
 # About
 
-<a href="https://ionic-6-ts-back4app-todolist-andgoedu.netlify.app/login">Demo</a>
+<a href="https://ionic-6-ts-back4app-todolist-andgoedu.netlify.app">Demo</a>
 
 An ionic 6 , web application built in typescript and react js framework ,while in terms of the backend back 4app was used as the api .
 
